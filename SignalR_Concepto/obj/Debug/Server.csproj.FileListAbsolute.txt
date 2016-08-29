@@ -1,0 +1,125 @@
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\SignalR_Concepto.dll.config
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\SignalR_Concepto.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\SignalR_Concepto.pdb
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Antlr3.Runtime.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.Core.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\EntityFramework.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\EntityFramework.SqlServer.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Owin.Cors.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Owin.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Owin.Security.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Newtonsoft.Json.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Owin.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\System.Web.Cors.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\System.Web.Optimization.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\System.Web.Providers.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\WebGrease.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Owin.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Owin.Cors.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.Owin.Security.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Newtonsoft.Json.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\EntityFramework.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\EntityFramework.SqlServer.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\System.Web.Providers.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.Core.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\es\EntityFramework.resources.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\obj\Debug\SignalR_Concepto.dll
+C:\Users\maigueda\Desktop\Pruebas\Sgnal\SignalRChatRoom\SignalR_Concepto\obj\Debug\SignalR_Concepto.pdb
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\SignalR_Concepto.dll.config
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\SignalR_Concepto.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\SignalR_Concepto.pdb
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Antlr3.Runtime.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.Core.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\EntityFramework.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\EntityFramework.SqlServer.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.Owin.Security.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Newtonsoft.Json.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Owin.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\System.Web.Optimization.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\System.Web.Providers.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\WebGrease.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Mono.Math.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.Owin.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.Owin.Cors.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.Owin.Security.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Newtonsoft.Json.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\EntityFramework.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\EntityFramework.SqlServer.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\System.Web.Providers.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.Core.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\Mono.Math.xml
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\es\EntityFramework.resources.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\obj\Debug\SignalR_Concepto.dll
+C:\Users\maigueda\Documents\Visual Studio 2015\Projects\VideoLlamadasConcepto\SignalR_Concepto\obj\Debug\SignalR_Concepto.pdb
